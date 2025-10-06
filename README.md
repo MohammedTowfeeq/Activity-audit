@@ -1,7 +1,3 @@
-# Activity-audit
-# Activity-audit
-## NAME: MOHAMMED TOWFEEQ
-## REG NO: 212224100035
 # EX - 4 Auditing Cloud Activity Using AWS CloudTrail
 
 ## Aim
